@@ -7,10 +7,11 @@
 Variáveis:
 - nome
 - idade
-- sexo
 - massa_corporal
+- sexo
 
 ```py
 import pandas as pd
 ```
-texto puro
+
+[Licensa Apache 2](LICENCE.txt)
